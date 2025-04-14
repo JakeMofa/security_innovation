@@ -1,0 +1,9 @@
+Package: aptworld
+Version: 1.0.0
+Section: utils
+Priority: optional
+Architecture: all
+Depends: python3
+Maintainer: Your Name <jakemofabd@gmail.com>
+Description: A CLI tool to list explicitly installed Debian packages.
+ Lightweight tool that lists packages explicitly installed by the user, similar to Gentoo's selected set.

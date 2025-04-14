@@ -1,0 +1,8 @@
+{
+  "apt-show-versions": "0.22.13+nmu1",
+  "apt-utils": "2.6.1",
+  "curl": "7.88.1-10+deb12u12",
+  "gnupg": "2.2.40-1.1",
+  "python3": "3.11.2-1+b1",
+  "python3-pip": "23.0.1+dfsg-1"
+}
